@@ -21,6 +21,12 @@ Quantum Computing has the potential to revolutionize computing, as it can solve 
 In this challenge you will be exposed, at a high-level, to quantum computing through Qiskit. As current or future users of quantum computers, you need to know what problems are appropriate for quantum computation, how to structure the problem model/inputs so that they are compatible with your chosen algorithm, and how to execute a given algorithm and quantum solution to solve the problem.
 
 # 2- Quantum Speedups in Finance
+## Notebook objectives:
+### In this challenge you will gain the following skills:
+#### 1- Understand the basics of how financial instruments are typically priced using Monte Carlo methods
+#### 2- Implement a quantum algorithm to price a financial instrument (in this case, we consider derivative contracts called options)
+#### 3- Understand the pros/cons of using the quantum approach
+
 <img width="1490" alt="download" src="https://user-images.githubusercontent.com/75124259/135219212-d7b7babd-b633-4870-ab55-490ef4d26c55.png">
 
 The world of finance is a complicated one to model and predict. The financial markets, in particular, are influenced by so many external factors and contain multiple different investors with different objectives. This means that traditional modelling techniques, like multiple linear regression, often struggle when trying to explain investors' behaviours or perform certain tasks in finance, such as predicting the price of a stock. Due to these complexities, we need more sophisticated models and numerous techniques have been proposed to produce such robust models for financial instruments like stocks.
