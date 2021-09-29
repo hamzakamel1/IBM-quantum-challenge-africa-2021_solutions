@@ -1,5 +1,10 @@
 # ibm-quantum-challenge-africa-2021--solutions
 
+The challenge focussed on applications of the field of Quantum Computing to solve problems in Africa in many fields like fields of optimization, finance, chemistry and meditation. As one of the african people from Egypt. I’m bappy to try to solve the problem that faces Africa. To be one of the people that make a difference in my continent, my country, and my socity. Thanks to IBM quantum computing and its applications.
+
+
+# IBM Quantum Challenge - Africa 2021 - description 
+The challenge consists of three labs covering three different applications of quantum computing. Each lab contains multiple exercises, taking you through the process of setting up your problem model, configuring your quantum algorithm, and solving for your problem by executing your quantum algorithm. Each lab is presented as a Jupyter notebook which is hosted on the IBM Quantum Lab.
 
 
 
